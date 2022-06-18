@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cdcfde03b9cd26950874059e9292a4cc.js"
+  "precache-manifest.6b65676a2bed8f6a719a1737e56c45dd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tic"});
